@@ -39,9 +39,9 @@ function Slider(min, max, defaultValue, step, type, symbol, unit) {
       case "master":
         return "45, 45, 45";
       case "active":
-        return "246, 84, 133";
+        return "8, 120, 48";
       case "passive":
-        return "246, 84, 133";
+        return "8, 120, 48";
       case "disabled":
         return "160, 160, 160";
     }

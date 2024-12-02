@@ -25,7 +25,7 @@ h1 {
 
 h2 {
   font-size: 26px;
-  color: #F65485;
+  color: #087830;
   font-weight: bold;
 }
 
@@ -59,7 +59,7 @@ select:focus {
 /* ----------------------- Header ---------------------- */
 
 #header {
-  background-color: #F65485;
+  background-color: #087830;
   color: #fff;
   height: 56px;
 }
@@ -210,12 +210,12 @@ select:focus {
 /* --------------------- Scrollbar --------------------- */
 
 .simplebar-track {
-  background-color: rgba(246, 84, 133, 0.1);
+  background-color: rgba(8, 120, 48);
   border-radius: 6px;
 }
 
 .simplebar-scrollbar:before {
-  background-color: rgba(246, 84, 133, 1);
+  background-color: rgba(8, 120, 48, 1);
 }
 
 /* ------------------- Range sliders ------------------- */
@@ -245,7 +245,7 @@ select:focus {
 }
 
 .range-slider-container.active .label {
-  color: rgba(246, 84, 133, 1);
+  color: rgba(8, 120, 48, 1);
 }
 
 .range-slider-container.disabled .label {
@@ -294,20 +294,20 @@ select:focus {
 }
 
 .range-slider-container.active .range-slider::-webkit-slider-thumb {
-  background: rgba(246, 84, 133, 1);
+  background: rgba(8, 120, 48, 1);
   cursor: grab;
 }
 .range-slider-container.active .range-slider::-moz-range-thumb {
-  background: rgba(246, 84, 133, 1);
+  background: rgba(8, 120, 48, 1);
   cursor: grab;
 }
 
 .range-slider-container.active.passive .range-slider::-webkit-slider-thumb {
-  background: rgba(246, 84, 133, 1);
+  background: rgba(8, 120, 48, 1);
   cursor: not-allowed;
 }
 .range-slider-container.active.passive .range-slider::-moz-range-thumb {
-  background: rgba(246, 84, 133, 1);
+  background: rgba(8, 120, 48, 1);
   cursor: not-allowed;
 }
 
@@ -349,7 +349,7 @@ select:focus {
 .range-slider-container.active .value-label,
 .range-slider-container.active .min-value,
 .range-slider-container.active .max-value {
-  color: rgba(246, 84, 133, 1);
+  color: rgba(8, 120, 48, 1);
 }
 
 .range-slider-container.disabled .value-label,
@@ -401,7 +401,7 @@ select:focus {
 }
 
 #bottom-half .matrix .highlighted {
-  color: rgba(246, 84, 133, 1);
+  color: rgba(8, 120, 48, 1);
 }
 
 #bottom-half .equations {
@@ -416,8 +416,8 @@ select:focus {
 }
 
 #bottom-half .equations .highlighted {
-  background-color: rgba(246, 84, 133, 0.1);
-  color: rgba(246, 84, 133, 1);
+  background-color: rgba(8, 120, 48);
+  color: rgba(8, 120, 48, 1);
   border-radius: 4px;
   padding: 0 3px;
   margin-right: 2px;

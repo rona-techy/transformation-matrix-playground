@@ -210,10 +210,12 @@ select:focus {
 /* --------------------- Scrollbar --------------------- */
 
 .simplebar-track {
-  background-color: rgba(8, 120, 48);
+  /*light green background color*/
+  background-color: rgba(219, 247, 229);
   border-radius: 6px;
 }
 
+/* dlsu green color */
 .simplebar-scrollbar:before {
   background-color: rgba(8, 120, 48, 1);
 }
@@ -416,7 +418,7 @@ select:focus {
 }
 
 #bottom-half .equations .highlighted {
-  background-color: rgba(8, 120, 48);
+  background-color: rgba(219, 247, 229);
   color: rgba(8, 120, 48, 1);
   border-radius: 4px;
   padding: 0 3px;
